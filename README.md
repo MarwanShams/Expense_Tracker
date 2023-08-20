@@ -1,16 +1,12 @@
 # expense_tracker
 
-A new Flutter project.
+An Expense tracker with dark mode and alert dialogue with (no save) for new data still in development.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![1 light expesnse traker](https://github.com/MarwanShams/Expense_Tracker/assets/142434135/2ce983f1-6887-4487-9523-de40392c2dff)
+![2 light expesnse traker](https://github.com/MarwanShams/Expense_Tracker/assets/142434135/f82edcd3-85f8-4f5d-8409-6642c2824658)
+![3 light alert dialogue expesnse traker](https://github.com/MarwanShams/Expense_Tracker/assets/142434135/a17b640f-35e9-4459-bd7c-a005425bac04)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1 dark expesnse traker](https://github.com/MarwanShams/Expense_Tracker/assets/142434135/924e0d78-2bbf-4cc9-9dd6-d039072cbfb3)
+![2 dark expesnse traker](https://github.com/MarwanShams/Expense_Tracker/assets/142434135/c036a866-5c12-453b-95c3-d98ff8bd7e1d)
